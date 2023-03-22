@@ -1,0 +1,15 @@
+{
+	id: "d797c76e-f46b-3a04-83d1-12e9f2832146"
+	type: "player"
+	player_name: "mannu"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "mannu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C9FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

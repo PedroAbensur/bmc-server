@@ -1,0 +1,15 @@
+{
+	id: "d04681fd-2ba0-45ee-b8d2-e037da7e507c"
+	type: "player"
+	player_name: "_Vedd"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "_Vedd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFDB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

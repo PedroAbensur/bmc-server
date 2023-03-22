@@ -1,0 +1,15 @@
+{
+	id: "94997399-3f74-3dac-a5cc-897fea5f15fe"
+	type: "player"
+	player_name: "bessa__"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "bessa__"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

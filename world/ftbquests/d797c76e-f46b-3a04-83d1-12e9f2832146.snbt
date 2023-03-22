@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "d797c76ef46b3a0483d112e9f2832146"
+	name: "mannu"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		253F9E583F5E00E9: 1
+	}
+	started: {
+		4E33D80DA11F2414: 1679164323419L
+		0000000000000001: 1679164323419L
+		34B1C9993EF3B503: 1679164323419L
+		253F9E583F5E00E9: 1679164323419L
+	}
+	completed: {
+		34B1C9993EF3B503: 1679164323425L
+		253F9E583F5E00E9: 1679164323425L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

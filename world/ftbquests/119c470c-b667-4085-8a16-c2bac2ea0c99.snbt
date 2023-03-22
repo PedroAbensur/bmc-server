@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "119c470cb66740858a16c2bac2ea0c99"
+	name: "CitrusHarry"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		7FC5892104C0744C: 1
+	}
+	started: {
+		0D7FF8F037EFF568: 1679025576035L
+		7FC5892104C0744C: 1679025576035L
+		0000000000000001: 1679025576035L
+		46D0AAEEB69E28B3: 1679025576035L
+	}
+	completed: {
+		7FC5892104C0744C: 1679025576045L
+		46D0AAEEB69E28B3: 1679025576045L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

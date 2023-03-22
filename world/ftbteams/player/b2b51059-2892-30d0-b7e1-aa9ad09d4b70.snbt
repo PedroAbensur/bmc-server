@@ -1,0 +1,17 @@
+{
+	id: "b2b51059-2892-30d0-b7e1-aa9ad09d4b70"
+	type: "player"
+	player_name: "JhonyxZ"
+	ranks: {
+		b2b51059-2892-30d0-b7e1-aa9ad09d4b70: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JhonyxZ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "652fa2e4-961a-3135-99f6-64dd73a092ad"
+	type: "player"
+	player_name: "Lukanoz"
+	ranks: {
+		652fa2e4-961a-3135-99f6-64dd73a092ad: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lukanoz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

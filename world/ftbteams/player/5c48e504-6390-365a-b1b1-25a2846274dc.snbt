@@ -1,0 +1,17 @@
+{
+	id: "5c48e504-6390-365a-b1b1-25a2846274dc"
+	type: "player"
+	player_name: "rafaeh3"
+	ranks: {
+		5c48e504-6390-365a-b1b1-25a2846274dc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "rafaeh3"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

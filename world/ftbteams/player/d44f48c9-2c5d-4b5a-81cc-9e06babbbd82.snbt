@@ -1,0 +1,15 @@
+{
+	id: "d44f48c9-2c5d-4b5a-81cc-9e06babbbd82"
+	type: "player"
+	player_name: "Lukanoz"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Lukanoz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

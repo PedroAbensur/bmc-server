@@ -1,0 +1,15 @@
+{
+	id: "f7993521-bef8-385d-afd6-317a713214ee"
+	type: "player"
+	player_name: "CitrusHarry"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "CitrusHarry"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFB0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

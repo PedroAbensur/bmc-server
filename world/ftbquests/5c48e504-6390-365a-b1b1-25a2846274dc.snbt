@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "5c48e5046390365ab1b125a2846274dc"
+	name: "rafaeh3"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		1B0800437C68C43A: 1
+	}
+	started: {
+		3E34934F09B08365: 1679173035832L
+		1B0800437C68C43A: 1679173035832L
+		0000000000000001: 1679173035832L
+		6A52090D6BC064D7: 1679173035832L
+	}
+	completed: {
+		1B0800437C68C43A: 1679173035839L
+		6A52090D6BC064D7: 1679173035839L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

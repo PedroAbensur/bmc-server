@@ -1,0 +1,17 @@
+{
+	id: "6417ed32-6ed2-3c58-9cef-619135ce2acc"
+	type: "player"
+	player_name: "Mounin"
+	ranks: {
+		6417ed32-6ed2-3c58-9cef-619135ce2acc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mounin"
+		"ftbteams:description": ""
+		"ftbteams:color": "#ACFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

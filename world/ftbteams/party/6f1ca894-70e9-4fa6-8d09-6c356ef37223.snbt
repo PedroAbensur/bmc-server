@@ -1,0 +1,29 @@
+{
+	id: "6f1ca894-70e9-4fa6-8d09-6c356ef37223"
+	type: "party"
+	owner: "8dbce075-02d0-3bf4-a3c5-4926a0fc6136"
+	ranks: {
+		8dbce075-02d0-3bf4-a3c5-4926a0fc6136: "owner"
+		94997399-3f74-3dac-a5cc-897fea5f15fe: "member"
+		d797c76e-f46b-3a04-83d1-12e9f2832146: "member"
+		f7993521-bef8-385d-afd6-317a713214ee: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Jojo Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E6FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1679166705893L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"_Vedd\"}]}" }
+		{ from: "8dbce075-02d0-3bf4-a3c5-4926a0fc6136", date: 1679166705904L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"bessa__\"}]}" }
+		{ from: "8dbce075-02d0-3bf4-a3c5-4926a0fc6136", date: 1679166705904L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"CitrusHarry\"}]}" }
+		{ from: "8dbce075-02d0-3bf4-a3c5-4926a0fc6136", date: 1679166705904L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"mannu\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1679166715018L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CitrusHarry\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1679166723922L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"mannu\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1679166730668L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"bessa__\"}]}" }
+		{ from: "8dbce075-02d0-3bf4-a3c5-4926a0fc6136", date: 1679166764166L, text: "{\"text\":\"wnhaeu\"}" }
+	]
+	extra: { }
+}

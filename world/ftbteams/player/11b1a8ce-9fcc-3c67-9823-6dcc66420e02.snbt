@@ -1,0 +1,17 @@
+{
+	id: "11b1a8ce-9fcc-3c67-9823-6dcc66420e02"
+	type: "player"
+	player_name: "ratopiegas"
+	ranks: {
+		11b1a8ce-9fcc-3c67-9823-6dcc66420e02: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ratopiegas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF82"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

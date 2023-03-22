@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "8dbce07502d03bf4a3c54926a0fc6136"
+	name: "_Vedd"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		7FC5892104C0744C: 1
+	}
+	started: {
+		0D7FF8F037EFF568: 1679108095529L
+		7FC5892104C0744C: 1679108095529L
+		0000000000000001: 1679108095529L
+		46D0AAEEB69E28B3: 1679108095529L
+	}
+	completed: {
+		7FC5892104C0744C: 1679108095530L
+		46D0AAEEB69E28B3: 1679108095530L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
