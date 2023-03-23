@@ -52,5 +52,11 @@
     "name": "mannu",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "635fd17d-5747-36fd-abd9-18770b4b48fd",
+    "name": "Bell_Zebull",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

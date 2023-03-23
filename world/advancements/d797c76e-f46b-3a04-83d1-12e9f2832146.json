@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_bloodstone_brick_wall_from_bloodstone_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
+    },
+    "done": true
+  },
   "inmis:recipes/frayed_backpack": {
     "criteria": {
       "has_leather": "2023-03-17 22:55:39 -0400"
@@ -638,6 +644,12 @@
   "everycomp:recipes/everycomp.everycomp/ap/betterend/pythadendron_boards": {
     "criteria": {
       "has_planks": "2023-03-19 13:59:05 -0400"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_brick": {
+    "criteria": {
+      "has_copper_block": "2023-03-22 14:26:56 -0400"
     },
     "done": true
   },
@@ -1082,9 +1094,15 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:wart_forest_edge": "2023-03-22 17:10:17 -0400",
       "betternether:upside_down_forest_cleared": "2023-03-19 00:48:35 -0400",
       "betternether:poor_nether_grasslands": "2023-03-19 00:47:24 -0400",
-      "betternether:nether_grasslands": "2023-03-19 00:48:03 -0400"
+      "betternether:nether_grasslands": "2023-03-19 00:48:03 -0400",
+      "betternether:old_fungiwoods": "2023-03-22 17:49:56 -0400",
+      "betternether:nether_mushroom_forest_edge": "2023-03-22 17:49:36 -0400",
+      "betternether:wart_forest": "2023-03-22 17:11:16 -0400",
+      "betternether:nether_mushroom_forest": "2023-03-22 17:48:51 -0400",
+      "betternether:old_warped_woods": "2023-03-22 17:52:38 -0400"
     },
     "done": false
   },
@@ -1286,6 +1304,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-03-22 17:54:37 -0400",
+      "minecraft:soul_sand_valley": "2023-03-22 17:54:49 -0400",
+      "minecraft:warped_forest": "2023-03-22 17:52:36 -0400"
+    },
+    "done": false
+  },
   "betternether:recipes/decorations/stalagnate_ladder": {
     "criteria": {
       "has_90_stick": "2023-03-17 22:09:59 -0400"
@@ -1325,6 +1351,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2023-03-18 14:09:02 -0400"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_planks": {
+    "criteria": {
+      "has_logs": "2023-03-22 14:12:57 -0400"
     },
     "done": true
   },
@@ -1490,6 +1522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-03-22 17:08:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2023-03-18 23:39:57 -0400"
@@ -1607,6 +1645,12 @@
   "ecologics:recipes/ecologics/walnut_fence_gate": {
     "criteria": {
       "has_planks": "2023-03-20 01:34:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-03-22 14:20:29 -0400"
     },
     "done": true
   },
@@ -2665,6 +2709,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-03-22 17:05:52 -0400"
+    },
+    "done": true
+  },
   "architects_palette:recipes/building_blocks/charcoal_block_from_smoking": {
     "criteria": {
       "has_log": "2023-03-17 22:11:58 -0400"
@@ -3313,6 +3363,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_bloodstone_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
+    },
+    "done": true
+  },
   "twigs:recipes/twigs.item_group/smooth_basalt_brick_wall_from_smooth_basalt_from_stonecutting": {
     "criteria": {
       "has_smooth_basalt": "2023-03-18 15:56:36 -0400"
@@ -3640,6 +3696,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-03-20 19:20:29 -0400",
+      "minecraft:blaze": "2023-03-22 17:05:45 -0400",
       "minecraft:skeleton": "2023-03-17 23:06:25 -0400",
       "minecraft:vindicator": "2023-03-20 20:02:41 -0400",
       "minecraft:spider": "2023-03-18 02:22:09 -0400",
@@ -3648,6 +3705,7 @@
       "minecraft:zombified_piglin": "2023-03-20 13:32:32 -0400",
       "minecraft:witch": "2023-03-20 18:45:56 -0400",
       "minecraft:husk": "2023-03-20 19:44:13 -0400",
+      "minecraft:piglin": "2023-03-22 17:07:26 -0400",
       "minecraft:silverfish": "2023-03-18 16:26:34 -0400",
       "minecraft:enderman": "2023-03-19 13:14:20 -0400",
       "minecraft:endermite": "2023-03-19 13:43:39 -0400",
@@ -3666,6 +3724,12 @@
   "twigs:recipes/twigs.item_group/blue_orchid_paper_lantern": {
     "criteria": {
       "has_blue_orchid": "2023-03-20 12:25:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2023-03-22 17:08:51 -0400"
     },
     "done": true
   },
@@ -3747,6 +3811,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_bloodstone_brick_slab_from_bloodstone_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-03-19 23:18:07 -0400"
@@ -3786,6 +3856,12 @@
   "wondrouswilds:recipes/building_blocks/hollow_spruce_log": {
     "criteria": {
       "has_log": "2023-03-17 22:57:31 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/bloodstone_wall": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
     },
     "done": true
   },
@@ -4677,6 +4753,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_bloodstone_brick_stairs_from_bloodstone_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2023-03-17 22:10:46 -0400"
@@ -4704,6 +4786,12 @@
   "terrestria:recipes/transportation/yucca_palm_chest_boat": {
     "criteria": {
       "has_boat": "2023-03-17 23:03:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-03-22 17:08:51 -0400"
     },
     "done": true
   },
@@ -4788,6 +4876,12 @@
   "twigs:recipes/twigs.item_group/rhyolite_wall": {
     "criteria": {
       "has_rhyolite": "2023-03-18 13:47:14 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/bloodstone_wall_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
     },
     "done": true
   },
@@ -4989,6 +5083,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_bloodstone_stairs_from_bloodstone_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp.everycomp/af/byg/cherry_shutter": {
     "criteria": {
       "has_planks": "2023-03-19 12:15:04 -0400"
@@ -5046,6 +5146,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-03-17 22:11:30 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/soul_sandstone": {
+    "criteria": {
+      "has_36_soul_sandstone": "2023-03-22 17:11:16 -0400"
     },
     "done": true
   },
@@ -5547,6 +5653,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/polished_bloodstone_slab_from_bloodstone_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-03-18 03:26:58 -0400"
@@ -5742,6 +5854,12 @@
   "everycomp:recipes/everycomp.everycomp/ap/ecologics/coconut_boards": {
     "criteria": {
       "has_planks": "2023-03-18 02:54:49 -0400"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_wood": {
+    "criteria": {
+      "has_log": "2023-03-22 14:12:57 -0400"
     },
     "done": true
   },
@@ -6153,6 +6271,12 @@
     },
     "done": true
   },
+  "twigs:recipes/twigs.item_group/bloodstone_slab_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_gate": {
     "criteria": {
       "has_158_stick": "2023-03-17 22:09:59 -0400"
@@ -6477,6 +6601,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2023-03-17 23:11:34 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/bloodstone_stairs": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
     },
     "done": true
   },
@@ -7047,6 +7177,12 @@
   "nethersdelight:recipes/nethersdelight/diamond_machete": {
     "criteria": {
       "has_diamond": "2023-03-18 23:39:57 -0400"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_log": {
+    "criteria": {
+      "has_329_mushroom_fir_stem": "2023-03-22 17:48:50 -0400"
     },
     "done": true
   },
@@ -7698,6 +7834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2023-03-22 14:20:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2023-03-17 23:11:34 -0400"
@@ -7821,6 +7963,12 @@
   "twigs:recipes/twigs.item_group/polished_amethyst": {
     "criteria": {
       "has_amethyst_block": "2023-03-18 15:56:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2023-03-22 17:59:48 -0400"
     },
     "done": true
   },
@@ -8580,6 +8728,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_block": {
+    "criteria": {
+      "has_1205_cincinnasite": "2023-03-22 17:10:51 -0400"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_372_stick": "2023-03-17 22:09:59 -0400"
@@ -8721,6 +8875,12 @@
   "betternether:recipes/decorations/nether_mushroom_fence": {
     "criteria": {
       "has_342_stick": "2023-03-17 22:09:59 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/bloodstone_stairs_from_stonecutting": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
     },
     "done": true
   },
@@ -9004,9 +9164,12 @@
       "byg:viscal_isles": "2023-03-19 13:37:37 -0400",
       "byg:temperate_grove": "2023-03-20 19:46:36 -0400",
       "byg:sierra_badlands": "2023-03-20 20:41:17 -0400",
+      "byg:warped_desert": "2023-03-22 17:54:57 -0400",
       "byg:firecracker_shrubland": "2023-03-17 22:58:54 -0400",
+      "byg:subzero_hypogeal": "2023-03-22 17:13:03 -0400",
       "byg:tropical_rainforest": "2023-03-20 19:45:04 -0400",
       "byg:araucaria_savanna": "2023-03-17 22:58:47 -0400",
+      "byg:wailing_garth": "2023-03-22 18:00:00 -0400",
       "byg:dacite_ridges": "2023-03-20 19:59:45 -0400",
       "byg:aspen_forest": "2023-03-20 19:56:17 -0400",
       "byg:cherry_blossom_forest": "2023-03-20 18:44:51 -0400",
@@ -9014,6 +9177,7 @@
       "byg:nightshade_forest": "2023-03-19 13:34:47 -0400",
       "byg:baobab_savanna": "2023-03-20 19:45:16 -0400",
       "byg:amaranth_fields": "2023-03-17 22:50:49 -0400",
+      "byg:brimstone_caverns": "2023-03-22 17:51:52 -0400",
       "byg:ebony_woods": "2023-03-17 22:56:29 -0400",
       "byg:dacite_shore": "2023-03-20 19:45:18 -0400",
       "byg:guiana_shield": "2023-03-17 22:57:11 -0400"
@@ -9144,6 +9308,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2023-03-19 03:00:38 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/polished_bloodstone": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
     },
     "done": true
   },
@@ -9711,6 +9881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2023-03-22 17:59:48 -0400"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp.everycomp/af/terrestria/cypress_chair": {
     "criteria": {
       "has_planks": "2023-03-17 22:51:10 -0400"
@@ -9762,6 +9938,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2023-03-18 16:11:11 -0400"
+    },
+    "done": true
+  },
+  "bygonenether:citadel": {
+    "criteria": {
+      "in_citadel": "2023-03-22 17:55:14 -0400"
     },
     "done": true
   },
@@ -10372,6 +10554,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_ingot_from_shard": {
+    "criteria": {
+      "has_30_cincinnasite": "2023-03-22 17:10:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2023-03-19 00:12:19 -0400"
@@ -10387,6 +10575,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2023-03-17 22:09:59 -0400"
+    },
+    "done": true
+  },
+  "twigs:recipes/twigs.item_group/bloodstone_slab": {
+    "criteria": {
+      "has_bloodstone": "2023-03-22 17:09:18 -0400"
     },
     "done": true
   },
@@ -11469,6 +11663,12 @@
     },
     "done": true
   },
+  "bygonenether:explore_structures": {
+    "criteria": {
+      "in_citadel": "2023-03-22 17:55:14 -0400"
+    },
+    "done": false
+  },
   "immersive_weathering:recipes/deepslate_bricks": {
     "criteria": {
       "has_copper_block": "2023-03-19 20:46:41 -0400"
@@ -11988,6 +12188,12 @@
   "twigs:recipes/twigs.item_group/polished_tuff_from_stonecutting": {
     "criteria": {
       "has_tuff": "2023-03-18 23:23:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-03-22 17:05:52 -0400"
     },
     "done": true
   },
